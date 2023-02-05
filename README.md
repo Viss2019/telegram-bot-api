@@ -23,6 +23,7 @@ First, ensure the library is installed and up to date by running
 `go get -u github.com/go-telegram-bot-api/telegram-bot-api/v5`.
 
 This is a very simple bot that just displays any gotten updates,
+...
 then replies it to that chat.
 
 ```go
